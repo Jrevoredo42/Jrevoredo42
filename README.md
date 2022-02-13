@@ -4,7 +4,7 @@
 - 📚 Me especializando para trabalhar com Front-end;
 - 🎓 Fazendo último período do técnico em Informática;
 - 🫀 Também trabalho como artista e produtor cultural;
-<br>
+
 
 <div>
   <a href="https://github.com/Jrevoredo42">
