@@ -3,7 +3,7 @@
 - 👨🏾‍💻 Sou desenvolvedor;
 - 📚 Me especializando para trabalhar com Front-end;
 - 🎓 Fazendo último período do técnico em Informática;
-- 🫀 Também trabalho como artista e produtor cultural;
+- 🫀 Também atuo como artista e produtor cultural;
 
 <br/>
 <div align="center">
