@@ -1,7 +1,7 @@
 ## Olá! Eu sou João Revoredo 👋🏾
 
 - 👨🏾‍💻 Sou desenvolvedor;
-- 📚 Me especializando para trabalhar com Front-end;
+- 📚 Me especializando para trabalhar como Full-stack;
 - 🎓 Fazendo último período do técnico em Informática;
 - 🫀 Também atuo como artista e produtor cultural;
 
