@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋,eu sou João Revoredo</h1>
+<h1 align="center">Olá! 👋, eu sou João Revoredo</h1>
 <h3 align="center">Software Engineer em busca de oportunidade de crescimento e desafios no mercado de trabalho</h3>
 
  </p>
