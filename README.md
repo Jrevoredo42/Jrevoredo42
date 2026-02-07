@@ -10,7 +10,10 @@
 
   💼 2 anos no mercado de trabalho como **Cloud Engineer**;
 
-  📫 Entre em contato comigo através do  **revoredojf@gmail.com**
+  📫 Entre em contato comigo através do  **devoredo42@gmail.com**
+  
+  🌐 Acesse meu site: https://portifolio-ashy-beta-72.vercel.app/
+  
 <br/><br/>
 
 <h3 align="left">Conecte comigo:</h3>
