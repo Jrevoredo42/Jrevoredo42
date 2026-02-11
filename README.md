@@ -12,7 +12,7 @@
 
   📫 Entre em contato comigo através do  **devoredo42@gmail.com**
   
-  🌐 Acesse meu site: https://portifolio-ashy-beta-72.vercel.app/
+  🌐 Acesse meu site: https://www.joao-revoredo.tech
   
 <br/><br/>
 
