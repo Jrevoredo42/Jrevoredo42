@@ -12,7 +12,7 @@
 
   📫 Entre em contato comigo através do  **devoredo42@gmail.com**
   
-  🌐 Acesse meu site: https://www.joao-revoredo.tech
+  🌐 Acesse meu site: joao-revoredo.tech
   
 <br/><br/>
 
